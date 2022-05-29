@@ -1,5 +1,5 @@
 # Software Editor de Texto
-Esse projeto foi desenvolvido por minha iniciativa do objetivo de me aprimorar na linguagem C# para desenvolvimento de softwares.
+Esse projeto foi desenvolvido por minha iniciativa com objetivo de me aprimorar na linguagem C# para desenvolvimento de softwares.
 
 Link da aula: https://www.youtube.com/watch?v=CPClOsG8X54&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=85
 
