@@ -11,3 +11,7 @@ Cria e edita texto.
 Funcionalidade de Abrir, Salvar e Imprimir.
 
 Barra de ferramentas com Botões praticos de formatação de fonte e linha.
+# Pendencias para Finalização
+Botão de Novo Arquivo, com verificação se quer salvar;
+
+Botão de Abrir Arquivo, com verificação se quer salvar antes o arquivo existente para em seguida abrir o novo arquivo e limpar o atual.
