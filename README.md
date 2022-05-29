@@ -6,7 +6,7 @@ Link da aula: https://www.youtube.com/watch?v=CPClOsG8X54&list=PLx4x_zx8csUglgKT
 Video aula ministrada pelo professor Bruno por curso completo de C#.
 
 # Funcionalidades do Software
-Cria texto.
+Cria e edita texto.
 
 Funcionalidade de Abrir, Salvar e Imprimir.
 
